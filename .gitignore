@@ -1,0 +1,42 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Package build artifacts
+*.egg-info/
+dist/
+build/
+
+# Test & coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Daemon runtime files (generated at runtime, never committed)
+*.log
+*.pid
+*.sock
+
+# Secrets
+.env
+
+# uv lock file (optional: commit if you want reproducible installs)
+# uv.lock
+
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor
+.idea/
+.vscode/
+*.swp
+*.orig
+*.bak
