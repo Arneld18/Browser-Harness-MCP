@@ -1,4 +1,4 @@
-<img src="https://r2.browser-use.com/github/ajsdlasnnalsgasld.png" alt="Browser Harness MCP" width="100%" />
+<img src="docs/banner.png" alt="Browser Harness MCP Banner" width="100%" />
 
 # Browser Harness MCP ♞
 
@@ -70,6 +70,3 @@ Restart your agent, and it will immediately gain the ability to natively control
 
 PRs and improvements welcome. The best way to help: **contribute a new domain skill** under `domain-skills/` by documenting best practices and robust selectors for specific sites (like X/Twitter, LinkedIn, etc).
 
----
-
-[The Bitter Lesson of Agent Harnesses](https://browser-use.com/posts/bitter-lesson-agent-harnesses) · [Web Agents That Actually Learn](https://browser-use.com/posts/web-agents-that-actually-learn)

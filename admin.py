@@ -12,7 +12,7 @@ from _compat import (
 
 NAME = os.environ.get("BU_NAME", "default")
 BU_API = "https://api.browser-use.com/api/v3"
-GH_RELEASES = "https://api.github.com/repos/browser-use/browser-harness/releases/latest"
+GH_RELEASES = "https://api.github.com/repos/Arneld18/Browser-Harness-MCP/releases/latest"
 VERSION_CACHE = TMPDIR / "bu-version-cache.json"
 VERSION_CACHE_TTL = 24 * 3600
 
